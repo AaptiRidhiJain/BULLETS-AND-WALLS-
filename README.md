@@ -1,2 +1,2 @@
-# BULLETS-AND-WALLS-
-BULLETS AND WALLS ARE FUN!!!...
+# p5.play-boilerplate
+Boiler plate for p5.play
